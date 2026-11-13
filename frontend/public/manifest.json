@@ -1,0 +1,18 @@
+{
+  "short_name": "BibliotecaREST",
+  "name": "Sistema de Biblioteca Distribuidora PWA",
+  "description": "Cliente PWA conectado a microservicios REST en Java",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0284c7",
+  "display": "standalone",
+  "orientation": "portrait"
+}
